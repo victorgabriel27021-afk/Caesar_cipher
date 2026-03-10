@@ -2,7 +2,7 @@
 
 ## TO UNDERSTAND:
 
-Na **Caesar cipher**, cada letra da mensagem é localizada no alfabeto e deslocada um certo número de posições definido previamente. Esse número é chamado de **deslocamento**. Por exemplo, se o deslocamento for 3, a letra **a** se torna **d**, **b** se torna **e**, e assim por diante. Quando o deslocamento chega ao final do alfabeto, ele continua a partir do começo, mantendo sempre o mesmo número de posições. Esse método simples de criptografia foi utilizado por **Julius Caesar** para tornar mensagens mais difíceis de serem compreendidas por quem não conhecia o deslocamento utilizado.
+In the **Caesar cipher**, each letter of the message is located in the alphabet and shifted a certain number of positions defined beforehand. This number is called the **shift**. For example, if the shift is 3, the letter **a** becomes **d**,**b** becomes **e**,and so on. When the shift reaches the end of the alphabet, it continues from the beginning, always maintaining the same number of positions. This simple encryption method was used by Julius Caesar to make messages more difficult to understand for those who did not know the shift used.
 
 ## EXAMPLE
 
